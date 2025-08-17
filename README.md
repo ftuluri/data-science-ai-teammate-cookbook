@@ -6,7 +6,7 @@ Tiffany Boyer - Contributor; Dr. Francis Tuluri - Contributor; and Temilouwa - C
 
 ## ✍️ Authors
 
-Authors: [Temiloluwa Adesola](https://github.com/IamTemmy); [Tiffany Boyer](https://github.com/El0quence); [Dr. Francis Tuluri, PhD](https://github.com/ftuluiri); Lead Author, [Connor Quiroz](https://github.com/quir1869)
+Authors: [Temiloluwa Adesola](https://github.com/IamTemmy); [Tiffany Boyer](https://github.com/El0quence); [Dr. Francis Tuluri, PhD](https://github.com/ftuluri); Lead Author, [Connor Quiroz](https://github.com/quir1869)
 
 ## Acknowledgements
 
